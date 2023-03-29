@@ -1,0 +1,17 @@
+{
+    "name": "vivadzo-policy",
+    "version": "1.0.0",
+    "description": "",
+    "main": "./src/app.js",
+    "scripts": {
+        "dev": "node ./src/app.js",
+        "reg": "npm set registry http://npm.lumigame.com"
+    },
+    "author": "pentagon",
+    "license": "ISC",
+    "type": "module",
+    "dependencies": {
+        "express": "^4.18.2",
+        "express-minify": "^1.0.0"
+    }
+}

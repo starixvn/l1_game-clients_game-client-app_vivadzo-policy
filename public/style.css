@@ -1,0 +1,8 @@
+@font-face {
+    font-family: noto-serif;
+    src: url(fonts/NotoSerif-Regular.ttf);
+}
+
+body {
+    font-family: noto-serif;
+}
